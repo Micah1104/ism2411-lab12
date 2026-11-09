@@ -1,0 +1,14 @@
+
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# OS
+
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
